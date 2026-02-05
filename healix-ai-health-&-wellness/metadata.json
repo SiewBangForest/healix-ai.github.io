@@ -1,0 +1,9 @@
+
+{
+  "name": "Healix AI Health & Wellness",
+  "description": "An AI-powered wellness education and personalized guidance platform for holistic health improvements.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
